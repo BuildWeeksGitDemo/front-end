@@ -1,3 +1,18 @@
 .App {
   text-align: center;
+  background-color: #ff9292;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  border: 5px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hello {
+  font-size: 20rem;
+  color: black;
+  margin: 0;
+  padding: 0;
 }
